@@ -1,5 +1,12 @@
 build
-test
-test.yml
-.DS_STORE
+.classpath
+.gitignore
+.project
+.gradle
+.idea
+**/bin/**
+.settings
+/**/package-lock.json
+/**/node_modules
+/go.work
 .vscode
