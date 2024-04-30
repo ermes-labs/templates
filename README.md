@@ -10,9 +10,10 @@ To find out more about the OpenFaaS templates see the [faas-cli](https://github.
 
 This repository contains the Classic Ermes-labs templates, but many more are available in the Template Store. Read above for more information.
 
-| Name | Language | Version | Linux base   | Watchdog | Link                                                                           |
-| :--- | :------- | :------ | :----------- | :------- | :----------------------------------------------------------------------------- |
-| go   | Go       | 1.20    | Alpine Linux | classic  | [Go template](https://github.com/ermes-labs/templates/tree/master/template/go) |
+| Name           | Language | Version | Linux base   | Watchdog | Link                                                                                       |
+| :------------- | :------- | :------ | :----------- | :------- | :----------------------------------------------------------------------------------------- |
+| ermes-go       | Go       | 1.22    | Alpine Linux | classic  | [Go template](https://github.com/ermes-labs/templates/tree/master/template/ermes-go)       |
+| ermes-go-redis | Go       | 1.22    | Alpine Linux | classic  | [Go template](https://github.com/ermes-labs/templates/tree/master/template/ermes-go-redis) |
 
 For more information on the templates check out the [docs](https://docs.openfaas.com/cli/templates/).
 
